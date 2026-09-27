@@ -135,3 +135,8 @@ An pre-configured Postman Collection is included in the project root:
     *   `baseUrl`: Defaulted to `http://localhost:5000`
     *   `token`: Left blank initially.
 *   **Automatic JWT Token Saving**: The **User Login** request contains a test script that automatically extracts the JWT token upon a successful response and updates the collection's `token` variable. Subsequent protected requests will automatically read from `{{token}}` in their Authorization tab.
+## Demo Videos
+##API Testing Video
+https://drive.google.com/file/d/1ze0FrIsOrYS-8w-mt4MRep6513QiJYga/view?usp=drivesdk
+### Memo Video
+https://drive.google.com/file/d/127KR7DEm1cdDJ0mBc17LMEhS31I7PVzx/view?usp=drivesdk
