@@ -1,0 +1,6 @@
+PORT=5000
+MONGO_URI=mongodb+srv://sandhiya2ndnov_db_user:AiFAQ4565@cluster0.betoacw.mongodb.net/?appName=Cluster0
+JWT_SECRET=ReBE4578
+GEMINI_API_KEY=AQ.Ab8RN6LZfUwmwH883F4gIFj-c-B2KdhHR6izyl0dr-xnVxUM0Q
+
+	
